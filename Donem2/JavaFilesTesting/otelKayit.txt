@@ -1,0 +1,10 @@
+oda0: b
+oda1: b
+oda2: b
+oda3: b
+oda4: b
+oda5: b
+oda6: b
+oda7: b
+oda8: b
+oda9: b
