@@ -1,10 +1,10 @@
-oda0: b
-oda1: b
-oda2: b
-oda3: b
-oda4: b
-oda5: b
-oda6: b
-oda7: b
-oda8: b
-oda9: b
+oda0:b
+oda1:b
+oda2:r
+oda3:b
+oda4:b
+oda5:r
+oda6:b
+oda7:i
+oda8:i
+oda9:b
